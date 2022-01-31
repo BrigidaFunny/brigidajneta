@@ -1,13 +1,8 @@
-<p align="center">
-    <em>
-        (Coloque uma imagem que represente o seu Projeto)<br>
-        (Insert an image that represents your Project)
-    </em>
-</p>
-
 <h1 align="center">
-	<img src="https://angular.io/assets/images/logos/angular/angular.svg"  alt="Logo"  width="240"><br><br>
-    Learned in Class
+	Learned in Class
+	<br><br>
+	<img src="https://user-images.githubusercontent.com/22033673/151854799-c3994f0a-0a58-4a0e-9c00-4fa09521a4ef.jpg"  alt="Logo"  width="950"><br><br>
+    
 </h1>
 
 <div>
